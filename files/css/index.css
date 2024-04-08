@@ -18,6 +18,17 @@
 
      overflow: overlay;
 }
+#textfield {
+    margin-bottom: 10px;
+    background: #352133;
+    border: #FF69B4 2px solid;
+    font-size: 120%;
+     width: 50%;
+     padding: 0 10px;
+     color:white;
+     line-height: 40px;
+     border-radius: 8px;
+}
  .forminput {
      margin: auto;
      width: 66%;
